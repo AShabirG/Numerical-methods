@@ -5,4 +5,5 @@ Coursework 1 is a file exploring DIRK3 and RK3 comparing them with exact solutio
 Coursework 2 is modelling hair the hair using differential equations in wind and non-wind case.
 
 One example of numerous produced as part of Coursework 2.
+
 ![Example_photo](https://github.com/AShabirG/Numerical-methods/blob/main/hair_in_wind.PNG)
